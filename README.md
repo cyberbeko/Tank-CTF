@@ -10,6 +10,10 @@
 
 No install. No server. Just open and play.
 
+
+<img src="https://imgur.com/L4Z2xlo.png" height="80%" width="80%" alt="Scanning"/>
+<img src="https://imgur.com/pc5AKez.png" height="80%" width="80%" alt="Scanning"/>
+
 ---
 
 ## 📸 Features at a Glance
@@ -25,7 +29,8 @@ No install. No server. Just open and play.
 - **Zero dependencies** — one `.html` file, Three.js loaded from CDN
 
 ---
-
+<img src="https://imgur.com/ApGbNs4.png" height="80%" width="80%" alt="Scanning"/>
+<img src="https://imgur.com/XEzGncr.png" height="80%" width="80%" alt="Scanning"/>
 ## 🛠️ How I Built It — Step by Step
 
 ### Step 1 — Basic 3D Tank Game
@@ -393,6 +398,7 @@ Single-file constraint. Canvas 2D gives enough expressiveness for tileable proce
 - **Wall avoidance** is better done with raycasts than learned behavior — RL is slow to learn spatial awareness; explicit checks are faster and more reliable
 
 ---
+<img src="https://imgur.com/91m0Aqr.png" height="80%" width="80%" alt="Scanning"/>
 
 ## 🔮 Ideas for Future Updates
 
