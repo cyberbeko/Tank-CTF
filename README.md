@@ -4,13 +4,6 @@
 
 ---
 
-## 🎮 Play It Live
-
-**[▶ Launch Game](https://dede3phc22dgx.cloudfront.net/creao2/492ad92a-018b-4b1d-b921-558e8da2a3d4/f8714340-e0f1-7095-02a8-f4632fda3cf2/535c8a10-c281-4bb6-beba-6ec05a205d39/tank_game.html)**
-
-No install. No server. Just open and play.
-
-
 <img src="https://imgur.com/L4Z2xlo.png" height="80%" width="80%" alt="Scanning"/>
 <img src="https://imgur.com/pc5AKez.png" height="80%" width="80%" alt="Scanning"/>
 
